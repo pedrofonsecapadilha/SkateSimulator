@@ -35,7 +35,19 @@
 <img src="https://a.imagem.app/3xe7GX.png" width="900px">
 </div>
 
-## 🤝 Developers
+### Tweaks and Improvements
+
+- Choose Character	
+- Choose Skateboard	
+- New Levels	
+- Score Ranking	
+- Dynamic Sky and Weather	
+- Special / Combo system	
+- More Animations (Get, FootGround, Stop)	
+- Smooth moviments	
+- Progresive SpeedUp and SlowDown	
+
+## 🤝 Developer
 
 <table>
   <tr>
